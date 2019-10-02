@@ -5,10 +5,6 @@ Name:
 
 
 
-
-
-
-
 # get fahrenheit from user
 fahrenheit = float(input("Enter the fahrenheit"))
 
